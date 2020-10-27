@@ -1,0 +1,10 @@
+C:\Users\Professional\source\repos\GetColorCode\GetColorCode\bin\Debug\GetColorCode.exe.config
+C:\Users\Professional\source\repos\GetColorCode\GetColorCode\bin\Debug\GetColorCode.exe
+C:\Users\Professional\source\repos\GetColorCode\GetColorCode\bin\Debug\GetColorCode.pdb
+C:\Users\Professional\source\repos\GetColorCode\GetColorCode\obj\Debug\GetColorCode.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\GetColorCode\GetColorCode\obj\Debug\GetColorCode.MainForm.resources
+C:\Users\Professional\source\repos\GetColorCode\GetColorCode\obj\Debug\GetColorCode.Properties.Resources.resources
+C:\Users\Professional\source\repos\GetColorCode\GetColorCode\obj\Debug\GetColorCode.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\GetColorCode\GetColorCode\obj\Debug\GetColorCode.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\GetColorCode\GetColorCode\obj\Debug\GetColorCode.exe
+C:\Users\Professional\source\repos\GetColorCode\GetColorCode\obj\Debug\GetColorCode.pdb
